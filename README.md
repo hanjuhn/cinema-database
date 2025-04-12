@@ -1,4 +1,4 @@
-# Cinema-Database
+# **Cinema-Database** | 롯데시네마 데이터베이스
 
 ## 🎞️ 롯데시네마 주문 관리 시스템의 현황 및 문제점
 
