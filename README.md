@@ -17,3 +17,4 @@
 - `conceptual/`: Conceptual Design 과정으로 ER Diagram 설계
 - `logical/`: Logical Design 과정으로 Relational Model 설계
 - `implementation/`: 데이터베이스 구현
+- `query/`: 쿼리문
