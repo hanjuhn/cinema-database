@@ -104,7 +104,6 @@ CREATE TABLE Positive (
                           FOREIGN KEY (ReviewID) REFERENCES Review(ReviewID) ON DELETE CASCADE
 );
 
-5-2 Data Manipulation Language
 -- Customer 테이블에 데이터 삽입
 INSERT INTO Customer VALUES (1, '배한준', 'hanjun@example.com', '123-456-7890', TO_DATE('2023-01-01', 'YYYY-MM-DD'));
 INSERT INTO Customer VALUES (2, '이한결', 'hangeoul@example.com', '123-123-1234', TO_DATE('2023-02-01', 'YYYY-MM-DD'));
