@@ -1,6 +1,6 @@
 # **Cinema-Database** | 롯데시네마 데이터베이스
 
-## 🎞️ 롯데시네마 주문 관리 시스템의 문제점
+## 🍿 롯데시네마 주문 관리 시스템의 문제점
 
 현재 롯데시네마의 주문 관리 시스템에서는 영화 예매와 매점 주문을 각각 별도로 처리해야 합니다. 사용자는 영화 결제를 먼저 완료한 후 매점 결제를 하거나, 반대로 매점 결제를 먼저 진행해야 하는데 이러한 분리된 결제 과정은 대기 시간 증가, 상품권 사용의 비효율성 등 여러 가지 문제를 초래합니다.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📁 **Key Directories and Files | 주요 디렉토리 및 파일**
+## 📁 Key Directories and Files | 주요 디렉토리 및 파일
 
 - `conceptual/`: Conceptual Design 과정으로 ER Diagram 설계
 - `logical/`: Logical Design 과정으로 Relational Model 설계
